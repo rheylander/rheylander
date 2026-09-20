@@ -1,82 +1,111 @@
+
 <div align="center">
 
-<!-- Caso queira exibir seu banner do LinkedIn, basta adicionar o arquivo banner.png na raiz do repositório e descomentar a linha abaixo -->
-
-# 🏛️ Ateliê Rheylander Soares
+# 🏛️ Ateliê Tecnológico — Rheylander Soares
 ### *Entre o traço e o código.*
-**Pessoas ✦ Sistemas ✦ Dados**
+**Pessoas ✦ Informação ✦ Tecnologia**
 
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rheylander/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-24292e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-1a202c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rheylandersoares@gmail.com">
-    <img src="https://img.shields.io/badge/Contato-rheylandersoares%40gmail.com-4a5568?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Contato-rheylandersoares%40gmail.com-2d3748?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>"O ofício nasce no rascunho imperfeito e ganha forma na disciplina da construção.<br>
-  Por trás de cada sistema, processo ou tabela de dados, existem pessoas reais tentando fazer seu trabalho funcionar melhor."</em>
+  <em>"Minha trajetória sempre esteve entre pessoas, informação, processos e tecnologia.<br>
+  Com o tempo, compreendi que a tecnologia é o elo que conecta essas dimensões e comecei a transformá-la em ofício e profissão."</em>
 </p>
 
 ---
 
 </div>
 
-## 📜 O Manifesto do Ateliê
+## 📜 O Manifesto do Ateliê: Do Traço ao Código
 
-A tecnologia não começou para mim com códigos frios, mas no chão da rotina administrativa: organizando processos, lidando com o público e compreendendo a desordem do dia a dia de trabalho.
+A tecnologia não começou para mim em uma linha de código ou em uma tela de terminal, mas na curiosidade prática da infância: eu era quem familiares e amigos procuravam para decifrar configurações, desvendar recursos de celulares e resolver pequenos entraves cotidianos. Ali já existia um método intuitivo: **curiosidade → pesquisa → tentativa prática → solução → apoio ao próximo**.
 
-Acredito que há valor no processo, nos erros que ensinam e na busca constante por equilíbrio entre o **caos da realidade** e a **estrutura dos sistemas**. Guiado pela fé cristã e pelo compromisso ético de servir com integridade, vejo a programação e a análise de dados como ferramentas de mordomia e resolução de problemas reais.
+Essa busca por resolver problemas foi lapidada por experiências multidisciplinares:
+* **A Sensibilidade Humana e Artística:** Minhas vivências no teatro, na música, na dança e na fotografia (como no Festival Cultural Pangeia) me ensinaram que a técnica sem empatia, comunicação clara e sensibilidade visual não resolve as dores reais das pessoas.
+* **A Disciplina dos Processos:** Na formação em Administração, Marketing e RH (Projeto Avança Brasil) e na rotina de apoio a microempreendimento familiar (orçamentos, notas, planilhas e atendimento), aprendi o valor da organização e da responsabilidade operacional.
+* **O Ensino como Vocação:** Como tutor de informática básica no Projeto Olhando para o Futuro, exercitei a paciência de acolher o usuário iniciante e tornar o digital acessível.
+* **A Virada de Chave:** No estágio na Secretaria de Gestão e Governo Digital, ao atuar lado a lado com o responsável de TI preparando estações Windows e dando suporte a usuários, percebi com clareza: eu não queria apenas preencher planilhas; queria projetar, modelar e compreender a fundo os sistemas e os dados que sustentam as decisões humanas.
 
-Aqui no ateliê você encontrará projetos construídos com paciência, desde a modelagem conceitual no papel até a implementação funcional em código.
-
----
-
-## ⚙️ O Ofício (Competências & Ferramentas)
-
-| Pilar | Foco & Aplicação Prática |
-| :--- | :--- |
-| **Dados & Decisões** | Modelagem relacional, consultas estruturadas em SQL básico, manipulação e análise de planilhas em Excel e relatórios analíticos em Power BI *(em desenvolvimento)*. |
-| **Sistemas & Lógica** | Aplicações desktop em C# (.NET / Windows Forms), estruturas condicionais e de repetição, manipulação de matrizes e lógica em PHP. |
-| **Infraestrutura & Suporte** | Fundamentos de redes de computadores, atendimento técnico a usuários, montagem de estações de trabalho e ambiente Windows. |
-| **Processos & Método** | Mapeamento de rotinas operacionais, controle de fluxos, organização documental e comunicação humana. |
+Ancorado na **fé cristã** e no princípio de **mordomia**, encaro o trabalho técnico como serviço. Não busco uma perfeição mecânica: há beleza no aprendizado gradual, verdade no rascunho imperfeito e valor na busca constante por colocar ordem no caos (o equilíbrio entre o traço e o código).
 
 ---
 
-## 🎓 Formação Acadêmica & Jornada
+## 🧭 O Ciclo de Criação
 
-* **Análise e Desenvolvimento de Sistemas** — Centro Universitário Senac *(em andamento)*
-* **Redes de Computadores** — Instituto Federal de São Paulo (IFSP) *(em andamento)*
-* **Técnico em Administração** — ETEC Takashi Morita *(em andamento)*
-* **Programador de Sistemas C#/.NET (200h)** — Senac / Programa Transforme-se *(concluído)*
+```text
+observar ──> entender ──> organizar ──> construir ──> testar ──> melhorar
+```
+
+> **Transparência no uso de tecnologia:** Utilizo ferramentas de IA generativa como parceiras ativas de pesquisa, prototipação e depuração de ideias, mantendo sempre o rigor do teste manual, a compreensão profunda de cada linha e a validação humana indispensável.
 
 ---
 
-## 🛠️ Peças em Construção (Projetos Selecionados)
+## 🎓 Tríplice Formação Acadêmica
 
-### 🔹 [Sistema TST Largo Treze](https://github.com/rheylander/projeto-integrador-transforme-se-t02)
-> *C# • Windows Forms • MySQL*
-- **Objetivo:** Gestão e registro de ocorrências de segurança do trabalho para ambientes acadêmicos e operacionais.
-- **Destaque:** Aplicação prática de CRUD completo, integração com banco de dados relacional e metodologia orientada a objetivos claros (SMART).
+| Formação | Instituição | Foco Estratégico | Período |
+| :--- | :--- | :--- | :---: |
+| **Análise e Desenvolvimento de Sistemas** | Centro Universitário Senac | Engenharia de software, lógica, dados e ciclo de vida de sistemas. | 2026–2028 |
+| **Redes de Computadores** | Instituto Federal de São Paulo (IFSP) | Infraestrutura, protocolos, conectividade, segurança e redes. | 2026–2028 |
+| **Técnico em Administração** | ETEC Takashi Morita | Gestão organizacional, finanças, processos e visão humana de negócios. | 2025–2026 |
+| **Programador de Sistemas C#/.NET** | Senac / Transforme-se | Qualificação prática em C#, Windows Forms, POO, CRUD e SQL (200h). | Concluído |
 
-### 🔹 Mapa de Assentos
-> *C# • Windows Forms • Persistência CSV*
-- **Objetivo:** Mapeamento visual e reserva de lugares em ambiente de sala de aula.
-- **Destaque:** Manipulação de matrizes bidimensionais, tratamento de estados de interface e persistência direta em arquivos estruturados.
+---
 
-### 🔹 [Estudos de Modelagem & SQL](https://github.com/rheylander/atividade-sql-consertodolele)
-> *SQL • Modelagem Relacional • DDL / DML*
-- **Objetivo:** Esquemas de banco de dados para controle de fluxo de ordens de serviço e manutenção.
-- **Destaque:** Criação de tabelas com chaves primárias/estrangeiras, junções (`JOIN`), filtros e consultas de agregação de dados.
+## 🏛️ As Oficinas do Ateliê: Apresentação & Prova Prática
+
+O ateliê está estruturado em bancadas de trabalho dedicadas. Abaixo você encontra os projetos em produção (com links diretos para código e documentação) e os novos ambientes em preparação:
+
+### ⚙️ Oficina I: Engenharia de Software & Aplicações Desktop
+*Foco: Criação de aplicações em C# (.NET Framework / Windows Forms) com lógica estruturada, manipulação de matrizes e persistência de dados.*
+
+* 📦 **[Ambiente: Mapa de Assentos](https://github.com/rheylander/programadordesistemas-T02/tree/main/MapaDeAssentos)**  
+  *Aplicação desktop para mapeamento visual e reserva de lugares em sala de aula. Explora matrizes bidimensionais, tratamento de estados de interface e persistência estruturada em arquivos CSV.*
+* 📦 **[Ambiente: Login While — Controle de Tentativas](https://github.com/rheylander/programadordesistemas-T02/tree/main/LoginWhileWinForms)**  
+  *Módulo de segurança com limite de 3 tentativas, bloqueio por exceção de credenciais, tratamento do evento AcceptButton (tecla Enter) e janela de dimensões fixas.*
+* 📦 **[Ambiente: Sistema TST Largo Treze (Equipe)](https://github.com/rheylander/projeto-integrador-transforme-se-t02)**  
+  *Projeto acadêmico em equipe para gestão de ocorrências de segurança do trabalho com operações CRUD completas e modelagem orientada a metas (SMART).*
+
+---
+
+### 🗄️ Oficina II: Banco de Dados & Modelagem Relacional
+*Foco: Desenho de esquemas relacionais, integridade referencial e consultas SQL para transformar dados brutos em respostas operacionais.*
+
+* 📦 **[Ambiente: Conserto do Lelê (Modelagem & Consultas SQL)](https://github.com/rheylander/atividade-sql-consertodolele)**  
+  *Modelagem de banco de dados relacional para controle de ordens de serviço de oficina mecânica. Scripts DDL de criação de tabelas e consultas DML com `JOIN`, agrupamentos e filtros.*
+* 🔨 *Ambiente em Preparação:* **Inventário & Ativos de TI (SQL Puro)**  
+  *Modelagem pessoal autônoma de banco de dados para controle de ciclo de vida de equipamentos, atribuição de estações de trabalho e histórico de incidentes de suporte.*
+
+---
+
+### 📊 Oficina III: Inteligência de Negócios & Processos
+*Foco: A ponte entre a experiência administrativa e a tomada de decisões técnicas: estruturação de dados operacionais e relatórios estratégicos.*
+
+* 🔨 *Ambiente em Preparação:* **Laboratório de Análise de Chamados & Operações**  
+  *Projeto integrador simulando o histórico de atendimento de Service Desk em planilhas, consultas analíticas em SQL e criação de dashboards gerenciais em Power BI (volumetria, SLA e resolução no primeiro nível).*
+
+---
+
+### 🌐 Oficina IV: Infraestrutura, Redes & Suporte Técnico
+*Foco: O alicerce que sustenta as aplicações no mundo real, unindo conectividade formal e o atendimento resolutivo a usuários.*
+
+* 🔨 *Ambiente em Preparação:* **Laboratório de Redes & Conectividade IFSP**  
+  *Documentação e estudos práticos sobre topologias de rede, endereçamento IP, protocolos essenciais (DHCP, DNS), regras de firewall e roteiros de diagnóstico para suporte técnico.*
 
 ---
 
 <div align="center">
-  <sub>São Paulo, SP — Brasil ✦ Ateliê Rheylander Soares</sub>
+  <sub>São Paulo, SP — Brasil ✦ Ateliê Tecnológico • Rheylander Soares Rodrigues</sub>
 </div>
+
+
