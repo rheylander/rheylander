@@ -64,17 +64,17 @@ observar ──> entender ──> organizar ──> construir ──> testar ─
 
 ## 🏛️ As Oficinas do Ateliê: Apresentação & Prova Prática
 
-O ateliê está estruturado em bancadas de trabalho dedicadas. Abaixo você encontra os projetos em produção (com links diretos para código e documentação) e os novos ambientes em preparação:
+O ateliê está estruturado em bancadas de trabalho dedicadas. Abaixo você encontra projetos acadêmicos com implementação publicada, registros de escopo e ambientes planejados, com links para código, documentação e evidências de funcionamento:
 
 ### ⚙️ Oficina I: Engenharia de Software & Aplicações Desktop
 *Foco: Criação de aplicações em C# (.NET Framework / Windows Forms) com lógica estruturada, manipulação de matrizes e persistência de dados.*
 
 * 📦 **[Ambiente: Mapa de Assentos](https://github.com/rheylander/programadordesistemas-T02/tree/main/MapaDeAssentos)**  
-  *Aplicação desktop para mapeamento visual e reserva de lugares em sala de aula. Explora matrizes bidimensionais, tratamento de estados de interface e persistência estruturada em arquivos CSV.*
+  *Aplicação acadêmica em C# Windows Forms (.NET Framework 4.7.2) para praticar matrizes, reserva e bloqueio de assentos e persistência em CSV. A importação valida o arquivo inteiro antes de substituir o mapa; CSV inválido preserva posições, dimensões e contadores. Testes manuais e capturas reais estão publicados no README, com 19 testes CSV e 17 testes de integração automatizados aprovados no Windows.*
 * 📦 **[Ambiente: Login While — Controle de Tentativas](https://github.com/rheylander/programadordesistemas-T02/tree/main/LoginWhileWinForms)**  
-  *Módulo de segurança com limite de 3 tentativas, bloqueio por exceção de credenciais, tratamento do evento AcceptButton (tecla Enter) e janela de dimensões fixas.*
-* 📦 **[Ambiente: Sistema TST Largo Treze (Equipe)](https://github.com/rheylander/projeto-integrador-transforme-se-t02)**  
-  *Projeto acadêmico em equipe para gestão de ocorrências de segurança do trabalho com operações CRUD completas e modelagem orientada a metas (SMART).*
+  *Exercício acadêmico em C# Windows Forms (.NET Framework 4.7.2) com credenciais fictícias, senha ocultada, limite de três tentativas e bloqueio dos campos e do botão após falhas. Login correto, contagem de tentativas e tecla Enter foram validados manualmente pelo autor; as capturas reais estão no README. As credenciais fixas servem ao estudo do fluxo e não implementam autenticação segura para produção.*
+* 📦 **[Registro de escopo: Sistema TST Largo Treze (Equipe)](https://github.com/rheylander/projeto-integrador-transforme-se-t02)**  
+  *Registro do escopo inicial de um projeto acadêmico em equipe para gestão de ocorrências de segurança do trabalho. O repositório descreve o MVP e as tecnologias previstas; a implementação não está publicada ali e o sistema não é apresentado como concluído.*
 
 ---
 
@@ -82,11 +82,12 @@ O ateliê está estruturado em bancadas de trabalho dedicadas. Abaixo você enco
 *Foco: Desenho de esquemas relacionais, integridade referencial e consultas SQL para transformar dados brutos em respostas operacionais.*
 
 * 📦 **[Ambiente: Conserto do Lelê (Modelagem & Consultas SQL)](https://github.com/rheylander/atividade-sql-consertodolele)**  
-  *Modelagem de banco de dados relacional para controle de ordens de serviço de oficina mecânica. Scripts DDL de criação de tabelas e consultas DML com `JOIN`, agrupamentos e filtros.*
+  *Atividade acadêmica em dupla sobre conserto e venda de peças de computador, com tabelas relacionadas, inserção de dados, consultas com `INNER JOIN`, filtros e ordenação. A carga em banco vazio, seis verificações de dados e consultas e o ciclo de permissões passaram no MySQL 8.0. O exercício de permissões é separado da carga principal; execução e limites estão documentados no README.*
 * 🔨 *Ambiente em Preparação:* **Inventário & Ativos de TI (SQL Puro)**  
   *Modelagem pessoal autônoma de banco de dados para controle de ciclo de vida de equipamentos, atribuição de estações de trabalho e histórico de incidentes de suporte.*
 
 ---
+
 
 ### 📊 Oficina III: Inteligência de Negócios & Processos
 *Foco: A ponte entre a experiência administrativa e a tomada de decisões técnicas: estruturação de dados operacionais e relatórios estratégicos.*
@@ -101,6 +102,18 @@ O ateliê está estruturado em bancadas de trabalho dedicadas. Abaixo você enco
 
 * 🔨 *Ambiente em Preparação:* **Laboratório de Redes & Conectividade IFSP**  
   *Documentação e estudos práticos sobre topologias de rede, endereçamento IP, protocolos essenciais (DHCP, DNS), regras de firewall e roteiros de diagnóstico para suporte técnico.*
+
+---
+
+## ✅ Evidências de validação
+
+| Projeto | O que foi validado | Onde conferir |
+| :--- | :--- | :--- |
+| **Mapa de Assentos** | Salvar, limpar e carregar CSV; rejeitar estado inválido sem perder o mapa; 36 verificações automatizadas | [Testes manuais e capturas](https://github.com/rheylander/programadordesistemas-T02/blob/main/MapaDeAssentos/README.md) · [Execução no Windows](https://github.com/rheylander/programadordesistemas-T02/actions/runs/39188290407) |
+| **Login While** | Login correto, senha ocultada, tecla Enter, tentativas restantes e bloqueio | [Testes manuais e capturas](https://github.com/rheylander/programadordesistemas-T02/blob/main/LoginWhileWinForms/README.md) |
+| **Conserto do Lelê** | Carga SQL, dados, relacionamentos, filtros, ordenação e ciclo de permissões em banco descartável | [Documentação](https://github.com/rheylander/atividade-sql-consertodolele/blob/main/README.md) · [Execução no MySQL](https://github.com/rheylander/atividade-sql-consertodolele/actions/runs/39182132301) |
+
+Essas evidências registram o estágio acadêmico atual dos projetos. Mapa de Assentos e Login While continuam no repositório de estudos; a separação em repositórios próprios é uma próxima etapa.
 
 ---
 
